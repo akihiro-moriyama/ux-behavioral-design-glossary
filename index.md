@@ -1,7 +1,3 @@
----
-title: ux-behavioral-design-glossary
-description: UXデザインにおける諸々の専門用語を集めた用語集
----
 # UX行動設計用語集
 
 ## このサイトについて

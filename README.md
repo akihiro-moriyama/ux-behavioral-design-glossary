@@ -1,6 +1,6 @@
 # このリポジトリについて
 
-このリポジトリは、ウェブサイト「UX Behavioral Design-Glossary」( [https://akihiro-moriyama.github.io/ux-behavioral-design-glossary/](https://akihiro-moriyama.github.io/ux-behavioral-design-glossary/) )を管理するためのものです。
+このリポジトリは、ウェブサイト「UX Behavioral Design Glossary」( [https://akihiro-moriyama.github.io/ux-behavioral-design-glossary/](https://akihiro-moriyama.github.io/ux-behavioral-design-glossary/) )を管理するためのものです。
 
 このリポジトリには、MDwiki( [https://github.com/Dynalon/mdwiki/](https://github.com/Dynalon/mdwiki/) )の著作物が含まれています。MDwikiはGPLv3ライセンスに基づいて公開されています。
 

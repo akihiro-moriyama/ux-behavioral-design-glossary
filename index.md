@@ -14,11 +14,6 @@ Akihiro MORIYAMA (https://akihiro-moriyama.github.io/)
 
 ## 英数字
 
-
-### UX（ユーザー体験）
-
-製品サービスの使用に関する体験
-
 ### UX（ユーザー体験）
 
 製品サービスの使用に関する体験。
@@ -27,9 +22,9 @@ Akihiro MORIYAMA (https://akihiro-moriyama.github.io/)
 
 [UX]:#UX "製品サービスの使用に関する体験"
 
-[ユーザー体験]:#UX "製品サービスの使用に関する体験"
+[ユーザー体験]:#UX "（→UX）製品サービスの使用に関する体験"
 
-note:UXはUser Experienceの略で、日本語ではユーザー体験と訳される。
+note:UXはUser eXperienceの略で、日本語ではユーザー体験と訳される。
 
 note:（関連語）[UXデザイン]
 
